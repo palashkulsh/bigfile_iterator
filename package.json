@@ -1,0 +1,15 @@
+{
+  "name": "bigfile_iterator",
+  "version": "0.0.1",
+  "description": "function which iterates over a file and returns chunks of data to be processed at a time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "palash kulshreshtha",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "async": "^1.5.2",
+    "csv": "^0.3.7"
+  }
+}
